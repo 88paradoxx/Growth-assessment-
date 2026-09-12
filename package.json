@@ -1,0 +1,10 @@
+{
+  "name": "clinical-growth-assessor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pediatric growth assessment tool (WHO 2006 & IAP 2015 percentile charts)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
